@@ -4,3 +4,5 @@ Tengo 30 años y estoy empezando este curso de Platzi.
 Con la suscripción anual.
 
 Git es una herramienta para el mundo del devolpment.
+
+El es solo un aprendiz de estas tecnologias.
