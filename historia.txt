@@ -1,0 +1,5 @@
+Hola mi nombre es Saul Juarez
+
+Tengo 30 años y estoy empezando este curso de Platzi.
+
+Git es una herramienta para el mundo del devolpment.
